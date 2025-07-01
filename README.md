@@ -12,6 +12,6 @@
 <br>
 https://github.com/deepseek-ai/DeepSeek-Coder-V2/blob/main/paper.pdf
 <br>
-CodeQwen
+2. CodeQwen
 <br>
 https://qwenlm.github.io/blog/codeqwen1.5/
