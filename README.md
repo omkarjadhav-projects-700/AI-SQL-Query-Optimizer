@@ -9,4 +9,9 @@
 # REFERENCES:
 
 1. Deepseek-coder-v2-Lite_Instruct Model
+<br>
 https://github.com/deepseek-ai/DeepSeek-Coder-V2/blob/main/paper.pdf
+<br>
+CodeQwen
+<br>
+https://qwenlm.github.io/blog/codeqwen1.5/
